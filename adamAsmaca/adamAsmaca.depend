@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523218171 source:c:\users\selim\documents\github\adamasmaca-sayitahmin\adamasmaca\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+

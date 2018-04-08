@@ -1,0 +1,15 @@
+google
+microsoft
+apple
+cisco
+oracle
+linux
+github
+netbeans
+codeblocks
+ducduckgo
+eclipse
+facebook
+yahoo
+spacex
+tesla
