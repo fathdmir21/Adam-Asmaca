@@ -1,2 +1,2 @@
 # AdamAsmaca-SayiTahmin
-0-30 arasında rastgele bir sayiyi tahmin etmeye çalıstıgınız adam asmaca oyunu.
+Konsol ekranı üzerinde rastgele bir kelimeyi tahmin etmeye çalıstıgınız adam asmaca oyunu.
